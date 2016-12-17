@@ -7,6 +7,8 @@ import {Provider} from 'react-redux'
 import appReducer from './reducers'
 import appSaga from './sagas'
 import App from './components/App'
+
+import 'normalize.css'
 import './index.css'
 
 // redux-saga middleware
